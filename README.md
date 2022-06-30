@@ -15,9 +15,9 @@ pip install -r requirements.txt
 Zip Download the Repository and Extract it's contents.
 -	Now run the [PingPong](https://github.com/Vasishtadepu/PingPong/blob/main/PingPong.py) file directly in your Terminal using
 ```
-python PingPong.py
+python BingBong.py
 ```
 **OR**
 ```
-python3 PingPong.py
+python3 BingBong.py
 ```
